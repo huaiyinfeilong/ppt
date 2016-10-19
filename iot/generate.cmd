@@ -1,0 +1,1 @@
+nodeppt generate ./index.md ./html -a
